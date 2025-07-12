@@ -1,5 +1,6 @@
-# Don't upload models to GitHub
+# Don't upload models or data to GitHub
 *.pth
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
